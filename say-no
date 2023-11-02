@@ -10,5 +10,3 @@ git clone https://github.com/AleoHQ/leo
 cd leo
 
 apt install clang gcc libssl-dev pkg-config
-
-cargo install --p
